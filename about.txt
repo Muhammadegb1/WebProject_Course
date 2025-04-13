@@ -1,0 +1,10 @@
+1) Install Git
+2) Check Git Install git --version
+3)   git config --global user.name {Name}
+     git config --global user.email {Email}
+4)  Open Folder in vscode WepProject
+    open terminal
+5) Repossitory (.git)
+    git init
+6) commit using vscode UI or Command
+7) 
